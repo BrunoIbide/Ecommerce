@@ -1,0 +1,5 @@
+#BlueJ class context
+comment0.target=Pedido
+comment1.params=p\ q\ im
+comment1.target=Pedido(Produto,\ int,\ Imposto)
+numComments=2
